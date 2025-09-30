@@ -7,7 +7,7 @@ Background: Medical image segmentation is a critical task for the early detectio
 ![ARC](https://github.com/mecusbans/DCM-Net/blob/fceaa5e810ff7dfa56b5397e8083c9a98b8aa469/Others/Figure%202.png)
 
 # DCM-Net Architecture
-![DCM-NetDCM-Net](https://github.com/S-domain/E-TransConvNet/blob/cdfb8a8e9b073026624cc10f338cc705f1d128e5/Figures/ETB.png)
+![DCM-NetDCM-Net](https://github.com/mecusbans/DCM-Net/blob/bf2d75464e29553cef5a46d8fbdc5a85e1c937f8/Others/Figure%203.png)
 
 # Segmentation Results on the Thyriod Nodule Dataset
 ![Results](https://github.com/S-domain/E-TransConvNet/blob/eb811931c50e8a87f2db7b1297a432959df84a94/Figures/Kidney_US2.png)
