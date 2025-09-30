@@ -4,13 +4,13 @@ Background: Medical image segmentation is a critical task for the early detectio
 
 #  Existing Medical Image Segmentation Architectures
 
-![ARC](https://github.com/S-domain/E-TransConvNet/blob/695d5b634324f9a2eed9f22eb35a26191d786258/Figures/ARC.png)
+![ARC](https://github.com/mecusbans/DCM-Net/blob/fceaa5e810ff7dfa56b5397e8083c9a98b8aa469/Others/Figure%202.png)
 
 # DCM-Net Architecture
-![ETB](https://github.com/S-domain/E-TransConvNet/blob/cdfb8a8e9b073026624cc10f338cc705f1d128e5/Figures/ETB.png)
+![DCM-NetDCM-Net](https://github.com/S-domain/E-TransConvNet/blob/cdfb8a8e9b073026624cc10f338cc705f1d128e5/Figures/ETB.png)
 
 # Segmentation Results on the Thyriod Nodule Dataset
-![ETB](https://github.com/S-domain/E-TransConvNet/blob/eb811931c50e8a87f2db7b1297a432959df84a94/Figures/Kidney_US2.png)
+![Results](https://github.com/S-domain/E-TransConvNet/blob/eb811931c50e8a87f2db7b1297a432959df84a94/Figures/Kidney_US2.png)
 
 # Requirements
 Python>= 3.7, Pytorch >= 2.2.1
