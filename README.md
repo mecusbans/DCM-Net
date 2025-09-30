@@ -20,7 +20,8 @@ All experiments were conducted using an NVIDIA GeForce RTX 3090 GPU
 
 # CNN, Transformer, and SSM-based Models for Medical Image Segmentation
 
-| Date    | Model     |Title                                                                                                                                                      | Code |
+| :---:   | :---:     | :---:                                                                                                                                                     | :---:|
+| 2025  | SK-VM++    | SK-VM++: Mamba assists skip-connections for medical image segmentation [(Paper)](https://doi.org/10.1016/j.bspc.2025.107646) | [Code](https://github.com/wurenkai/SK-VMPlusPlus)|
 
 
 #   Contact
