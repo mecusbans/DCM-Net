@@ -10,10 +10,28 @@ Background: Medical image segmentation is a critical task for the early detectio
 ![DCM-NetDCM-Net](https://github.com/mecusbans/DCM-Net/blob/bf2d75464e29553cef5a46d8fbdc5a85e1c937f8/Others/Figure%203.png)
 
 # Segmentation Results on the Thyriod Nodule Dataset
-![Results](https://github.com/S-domain/E-TransConvNet/blob/eb811931c50e8a87f2db7b1297a432959df84a94/Figures/Kidney_US2.png)
+![Results](https://github.com/mecusbans/DCM-Net/blob/15749ff3f5bfae698a517b58090f51f2d7fc823c/Others/Figure%2011.png)
 
 # Requirements
 Python>= 3.7, Pytorch >= 2.2.1
 
 # Experimental Setting
 All experiments were conducted using an NVIDIA GeForce RTX 3090 GPU
+
+# CNN, Transformer, and SSM-based Models for Medical Image Segmentation
+
+| Date    | Model     |Title                                                                                                                                                      | Code |
+
+
+#   Contact
+mecusbans@gmail.com
+
+#   CCH-PCT-CT Dataset
+For the CCH-PCT-CT dataset contact Dr. Hui Li (Email: lih@cqu.edu.cn)
+
+#   Acknowledgments
+The authors thank the Chongqing University for their support.
+
+
+# Cite this article
+Atabansi, C., Wang, S., Li, H. et al. DCM-Net: dual-encoder CNN-Mamba network with cross-branch fusion for robust medical image segmentation. BMC Med Imaging 25, 395 (2025). https://doi.org/10.1186/s12880-025-01942-4
